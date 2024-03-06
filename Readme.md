@@ -13,4 +13,4 @@ provies real time news for each stock
 and more
 
 // to be added
-
+//newsapi to be used from :  https://newscatcherapi.com/

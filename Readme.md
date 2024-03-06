@@ -12,3 +12,5 @@ pulling recent sentiments
 provies real time news for each stock
 and more
 
+// to be added
+
